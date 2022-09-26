@@ -25,8 +25,12 @@ Packages: matplotlib, pandas, pandas profiling, numpy, seaborn, sklearn, and xgb
 
 This IBM data set that contains information about a fictional telecommunications company, Telco, which provides internet and phone services in California, USA. There are indications if a customer signed up for their services, stayed, or left the company. You can find this data used in this notebook on Kaggle or access its latest version on IBM's site, both by clicking on the links below.
 
-**Data set URL: https://www.kaggle.com/datasets/blastchar/telco-customer-churn**
+**Data set URL: https://www.kaggle.com/datasets/yeanzc/telco-customer-churn-ibm-dataset (duplicated* - .xlsx)**
+**More famous data set: https://www.kaggle.com/datasets/blastchar/telco-customer-churn (.csv)**
 **IBM data set the latest version: https://community.ibm.com/community/user/businessanalytics/blogs/steven-macko/2019/07/11/telco-customer-churn-1113**
+
+* The data used in this project came from a duplicated data set on Kaggle which has a few more columns, and its original extension is .xlsx. You can also use the other .csv file instead, but keep in mind that some cells may raise an error due to the different file formats and missing features.
+
 
 ## Model building
 
