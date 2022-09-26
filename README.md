@@ -1,6 +1,6 @@
 # Telco customer churn: Project Overview
 
-**Tags: XGBoost, dummy classifier, randomSearchCV, EDA, feature engineering, feature modeling,**
+**Tags: XGBoost, dummy classifier, cross validation, hyperparameters boosting, AUC, ROC, EDA, feature engineering, feature modeling, churn**
 
 This notebook is based on StatQuest with Josh Starmer's webinar called XGBoost in [Python from Start to Finish](https://www.youtube.com/watch?v=GrJP9FLV3FE).
 
